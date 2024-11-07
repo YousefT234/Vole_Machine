@@ -41,6 +41,15 @@ The emulator is designed with object-oriented principles, using classes to repre
 
 The program uses Qt for GUI design, enabling an interactive interface for user control and visualization. 
 
+## Installation
+
+To run the programme:
+
+1. **Download Release version** 
+2. **Unrar it** 
+3. **Run vole_machine.exe** 
+
+
 ## Usage
 
 1. **Load a Program:** Click the **Import** button to load a machine code program file.
