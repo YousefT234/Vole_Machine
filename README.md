@@ -60,7 +60,6 @@ Here’s an example of how to write a simple program to swap two memory cells in
 310B
 320A
 C000
-0A0C;
 ```
 ![image](https://github.com/user-attachments/assets/6bf15199-2ffc-4003-96cb-4e753c3529a8)
 
