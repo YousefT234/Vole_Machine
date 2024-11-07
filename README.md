@@ -43,7 +43,7 @@ The program uses Qt for GUI design, enabling an interactive interface for user c
 
 ## Installation
 
-To run the programme:
+To run the program:
 
 1. **Download Release version** 
 2. **Unrar it** 
